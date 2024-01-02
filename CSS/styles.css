@@ -1,0 +1,36 @@
+td, th {
+    padding: 2px 12px;
+    font-family: monospace;
+    font-size: 15px;
+    margin-bottom: 2px;  
+}
+
+.b {
+    background-color: lightsalmon;
+}
+
+.a {
+    background-color: rgb(230, 238, 115);
+}
+
+h1 {
+    background-color: rgb(177, 177, 177);
+    text-align: center;
+}
+
+.ah {
+    background-color: rgb(132, 196, 38);
+}
+
+.bh {
+    background-color: rgb(219, 120, 80);
+}
+
+table {
+    margin: 50px auto;
+}
+
+table {
+    border-collapse: collapse;
+    
+}
